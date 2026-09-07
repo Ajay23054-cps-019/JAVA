@@ -18,6 +18,5 @@ public class jagged_array {
             }
             System.out.println();
         }
-
     }
 }
